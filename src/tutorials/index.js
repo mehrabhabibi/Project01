@@ -1,0 +1,1 @@
+export {default as TutorialHome} from './tutorial-home/tutorial-home'
