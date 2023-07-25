@@ -1,0 +1,14 @@
+Auto Rename Tag
+CSS Navigation
+CSS Peek
+ES7+ React/Redux/React-Native snippets
+ESLint
+HTML CSS Support
+Image preview
+IntelliCode
+IntelliSense for CSS class names in HTML
+JavaScript (ES6) code snippets
+Live Server
+Material Icon Theme
+Path Intellisense
+Prettier - Code formatter
